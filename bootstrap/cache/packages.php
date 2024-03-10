@@ -34,6 +34,13 @@
       0 => 'Laravel\\Tinker\\TinkerServiceProvider',
     ),
   ),
+  'laraveldaily/larastarters' => 
+  array (
+    'providers' => 
+    array (
+      0 => 'LaravelDaily\\Larastarters\\LarastartersServiceProvider',
+    ),
+  ),
   'nesbot/carbon' => 
   array (
     'providers' => 
